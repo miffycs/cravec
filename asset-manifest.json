@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cravec/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/cravec/static/js/main.e7d9c03f.chunk.js",
+    "main.js.map": "/cravec/static/js/main.e7d9c03f.chunk.js.map",
+    "runtime-main.js": "/cravec/static/js/runtime-main.02f6536e.js",
+    "runtime-main.js.map": "/cravec/static/js/runtime-main.02f6536e.js.map",
+    "static/js/2.921af085.chunk.js": "/cravec/static/js/2.921af085.chunk.js",
+    "static/js/2.921af085.chunk.js.map": "/cravec/static/js/2.921af085.chunk.js.map",
+    "static/js/3.a5b87620.chunk.js": "/cravec/static/js/3.a5b87620.chunk.js",
+    "static/js/3.a5b87620.chunk.js.map": "/cravec/static/js/3.a5b87620.chunk.js.map",
+    "index.html": "/cravec/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/cravec/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.921af085.chunk.js.LICENSE.txt": "/cravec/static/js/2.921af085.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cravec/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02f6536e.js",
+    "static/js/2.921af085.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e7d9c03f.chunk.js"
+  ]
+}
