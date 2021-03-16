@@ -4,16 +4,16 @@ import Header from '../layouts/Headerthree';
 import Footer from '../layouts/Footer';
 import Content from '../sections/error/Content';
 
-const pagelocation = 'Error 404'
+const pagelocation = '404 Error'
 
 class Error extends Component {
     render() {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Slices - React Template | {pagelocation}</title>
+                    <title>Crave Chinatown - {pagelocation}</title>
                     <meta
-                        name="description"
+                        name="404 error"
                         content="#"
                     />
                 </MetaTags>
