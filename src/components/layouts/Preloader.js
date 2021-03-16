@@ -15,6 +15,7 @@ class Preloader extends Component {
             });
         });
     }
+    
     render() {
         const preloaderhidden = this.state.fetchSuccess ? 'hidden' : '';
         return (
