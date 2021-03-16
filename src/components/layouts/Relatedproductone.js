@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { Modal } from 'react-bootstrap';
 import Quickview from './Quickview';
 import products from "../../data/product.json";
-import { Rating } from "../../helper/helper";
+import { Rating } from "../../helper/Ratinghelper";
 
 class Relatedproduct extends Component {
     constructor(props) {

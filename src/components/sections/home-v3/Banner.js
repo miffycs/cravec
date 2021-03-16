@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import Slider from 'react-slick';
 import { homethree as bannerpost } from '../../../data/banner.json'
-import { Rating } from '../../../helper/helper'
+import { Rating } from '../../../helper/Ratinghelper'
 
 class Banner extends Component {
     constructor(props) {

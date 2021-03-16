@@ -5,7 +5,7 @@ import { Modal } from 'react-bootstrap';
 import Quickview from '../../layouts/Quickview';
 import products from "../../../data/product.json";
 import productcategory from "../../../data/productcategory.json";
-import { Rating } from "../../../helper/helper";
+import { Rating } from "../../../helper/Ratinghelper";
 import Masonry from 'react-masonry-component';
 
 class Content extends Component {

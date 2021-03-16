@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react';
 import { Link } from 'react-router-dom';
 import { getProduct } from '../../../helper/Producthelper';
-import { Rating } from "../../../helper/helper";
+import { Rating } from "../../../helper/Ratinghelper";
 import productcategory from "../../../data/productcategory.json";
 import blogtags from '../../../data/blogtags.json';
 import { Tab, Nav } from "react-bootstrap";
