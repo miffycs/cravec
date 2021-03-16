@@ -31,7 +31,7 @@ class Content extends Component {
                                                     ))}
                                                 </div>
                                                 <div className="col-6">
-                                                    <span> Give us a call: <a rel={'external'} href={"tel:" + item.contactno}>{item.contactno}</a> </span>
+                                                    <span> Call Us: <a rel={'external'} href={"tel:" + item.contactno}>{item.contactno}</a> </span>
                                                     <span> Email Us: <a rel={'external'} href={"mailto:" + item.emailid}>{item.emailid}</a></span>
                                                 </div>
                                             </div>
@@ -48,7 +48,7 @@ class Content extends Component {
                                         >
                                             <TileLayer
                                                 url="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}"
-                                                attribution='&copy; Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ'
+                                                attribution='&copy; Tiles - Crave Chinatown'
                                                 maxZoom={16}
                                             />
                                             <Marker position={item.mapdata} icon={customMarker}></Marker>

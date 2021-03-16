@@ -22,7 +22,7 @@ class Contactmap extends Component {
                     >
                         <TileLayer
                             url="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}"
-                            attribution='&copy; Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ'
+                            attribution='&copy; Tiles - Crave Chinatown'
                             maxZoom={16}
                         />
                         <Marker position={latlng} icon={customMarker}></Marker>

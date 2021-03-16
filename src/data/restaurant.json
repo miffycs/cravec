@@ -2,52 +2,52 @@
     {
         "id": 1,
         "img": "assets/img/locations/1.jpg",
-        "title": "Slices London",
+        "title": "Crave Chinatown",
         "brancetype": "Main Branch",
         "location": [
-            "Cecilia Chapman",
-            "711-2880 Nulla St.",
-            "Mankato Mississippi 96522"
+            "TODO filler text",
+            "75 Kneeland Street,",
+            "Boston, MA 02111"
         ],
-        "contactno": "(257) 563-7401",
-        "emailid": "info@slices.com",
+        "contactno": "(617) 338-0188",
+        "emailid": "chinatown@crave.com",
         "mapdata": [
-            40.711652,
-            -73.963877
+            42.350205277980386,
+            -71.06079573805086
         ]
     },
     {
         "id": 2,
         "img": "assets/img/locations/2.jpg",
-        "title": "Slices Washington",
+        "title": "Crave Allston",
         "brancetype": "Secondary Branch",
         "location": [
-            "Iris Watson",
-            "P.O. Box 283 8562 Fusce Rd.",
-            "Frederick Nebraska 20620"
+            "TODO filler text",
+            "128 Brighton Avenue,",
+            "Allston, MA 02134"
         ],
-        "contactno": "(372) 587-2335",
-        "emailid": "info@slices-dc.com",
+        "contactno": "(617) 338-0188",
+        "emailid": "allston@crave.com",
         "mapdata": [
-            40.711652,
-            -73.963877
+            42.35259122588692,
+            -71.1313242580557
         ]
     },
     {
         "id": 3,
         "img": "assets/img/locations/3.jpg",
-        "title": "Slices Italy",
+        "title": "Crave Brookline",
         "brancetype": "Secondary Branch",
         "location": [
-            "Celeste Slater",
-            "606-3727 Ullamcorper. Street",
-            "Roseville NH 11523"
+            "TODO filler text",
+            "1412 Beacon Street, #1,",
+            "Brookline, MA 02446"
         ],
-        "contactno": "(786) 713-8616",
-        "emailid": "info@slices-italy.com",
+        "contactno": "(617) 338-0188",
+        "emailid": "brookline@crave.com",
         "mapdata": [
-            40.711652,
-            -73.963877
+            42.34136620059595,
+            -71.12551047001638
         ]
     }
 ]
