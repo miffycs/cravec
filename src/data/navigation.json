@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "linkText": "Home Pages",
+        "linkText": "Home",
         "child": true,
         "submenu": [
             {
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 2,
         "linkText": "Blog",
         "child": true,
         "submenu": [
@@ -67,7 +67,7 @@
     },
     {
         "id": 3,
-        "linkText": "Pages",
+        "linkText": "WIP Pages",
         "child": true,
         "submenu": [
             {

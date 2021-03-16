@@ -32,20 +32,18 @@ class HeaderComponent extends Component {
     }
     // Mobile menu
     getNextSibling = function (elem, selector) {
-
         // Get the next sibling element
         var sibling = elem.nextElementSibling;
 
         // If there's no selector, return the first sibling
         if (!selector) return sibling;
 
-        // If the sibling matches our selector, use it
-        // If not, jump to the next sibling and continue the loop
+        // If sibling matches the selector, use it
+        // If not, jump to the next sibling and continue to loop through
         while (sibling) {
             if (sibling.matches(selector)) return sibling;
             sibling = sibling.nextElementSibling
         }
-
     }
 
     triggerChild = (e) => {
