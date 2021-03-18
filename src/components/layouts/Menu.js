@@ -41,7 +41,7 @@ class Menu extends Component {
                                             <p>
                                                 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC,
                                                 making it over 2000 years old.
-                      </p>
+                                            </p>
                                             <Link to="/menu-item-v2" className="btn-custom secondary shadow-none btn-sm">Build your Pizza</Link>
                                         </div>
                                     </div>
@@ -50,8 +50,6 @@ class Menu extends Component {
                                             <h5>Menu Pages</h5>
                                             <Link to="/menu-v1">Menu v1</Link>
                                             <Link to="/menu-v2">Menu v2</Link>
-                                            <Link to="#" className="coming-soon">Menu v3 <span>Coming Soon</span> </Link>
-                                            <Link to="#" className="coming-soon">Menu v4 <span>Coming Soon</span> </Link>
                                         </div>
                                     </div>
                                     <div className="col-lg-4">
@@ -59,7 +57,6 @@ class Menu extends Component {
                                             <h5>Menu Item Pages</h5>
                                             <Link to="/menu-item-v1/1">Menu Item v1</Link>
                                             <Link to="/menu-item-v2/1">Menu Item v2</Link>
-                                            <Link to="#" className="coming-soon">Menu Item v3 <span>Coming Soon</span></Link>
                                         </div>
                                     </div>
                                     <div className="col-12 mega-menu-promotion-wrapper">
