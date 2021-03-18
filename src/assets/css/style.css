@@ -24,7 +24,7 @@
  6.3. Categories
  6.4. Blog Posts
  6.5. Newsletter
- 6.6 Instagram
+ 6.6. Instagram
  6.7. Info Boxes
  6.8. Team Members
  6.9. Infographics
@@ -777,16 +777,31 @@ input[type="submit"]:disabled, button[type="submit"]:disabled {
 ====================*/
 .custom-primary{
   color: #ED4E53;
+  /* crave orange */
+  /*
+  color: #F66721;
+  color: rgb(246, 103, 33);
+  */
 }
 .custom-secondary{
   color: #4e4e4e;
 }
-.twitter{
-  background-color: rgb(44, 170, 225) !important;
+
+.yelp {
+  background-color: rgb(204, 33, 39) !important;
   color: #fff;
 }
-.twitter:hover{
-  background-color: #2caae1;
+.yelp:hover{
+  background-color: #cc2127;
+  color: #fff;
+}
+
+.insta {
+  background: radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf) !important;
+  color: #fff;
+}
+.insta:hover{
+  background: radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf) !important;
   color: #fff;
 }
 
@@ -796,6 +811,15 @@ input[type="submit"]:disabled, button[type="submit"]:disabled {
 }
 .facebook:hover{
   background-color: #3b579d;
+  color: #fff;
+}
+
+.twitter{
+  background-color: rgb(44, 170, 225) !important;
+  color: #fff;
+}
+.twitter:hover{
+  background-color: #2caae1;
   color: #fff;
 }
 
