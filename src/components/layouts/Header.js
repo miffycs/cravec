@@ -48,7 +48,7 @@ class Header extends HeaderComponent {
                             <div className="top-header-inner">
                                 <div className="top-header-contacts">
                                     <ul className="top-header-nav">
-                                        <li> <Link className="p-0" to="/tel:+123456789"><i className="fas fa-phone mr-2" /> +123 456 789</Link> </li>
+                                        <li> <Link className="p-0" to="/tel:+16173380188"><i className="fas fa-phone mr-2" /> +1 (617) 338-0188</Link> </li>
                                     </ul>
                                 </div>
                                 <ul className="top-header-nav header-cta">
