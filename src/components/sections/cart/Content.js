@@ -91,11 +91,11 @@ class Content extends Component {
                                 <tbody>
                                     <tr>
                                         <th>Subtotal</th>
-                                        <td>{new Intl.NumberFormat().format((this.state.priceTotal).toFixed(2))}$</td>
+                                        <td>${new Intl.NumberFormat().format((this.state.priceTotal).toFixed(2))}</td>
                                     </tr>
                                     <tr>
                                         <th>Tax</th>
-                                        <td> {tax}$ <span className="small">(11%)</span> </td>
+                                        <td> ${tax} <span className="small">(11%)</span> </td>
                                     </tr>
                                     <tr>
                                         <th>Total</th>

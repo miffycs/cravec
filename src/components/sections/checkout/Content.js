@@ -385,7 +385,7 @@ class Content extends Component {
                                                 <h6 className="mb-0">Grand Total</h6>
                                             </td>
                                             <td />
-                                            <td> <strong>{new Intl.NumberFormat().format((priceTotal).toFixed(2))}$</strong> </td>
+                                            <td> <strong>${new Intl.NumberFormat().format((priceTotal).toFixed(2))}</strong> </td>
                                         </tr>
                                     </tbody>
                                 </table>
