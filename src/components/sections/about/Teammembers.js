@@ -3,23 +3,23 @@ import { Link } from 'react-router-dom';
 
 const teamblock = [
     {
-        img: "assets/img/team/1.jpg",
-        name: "Miranda Blue",
+        img: "assets/img/people/3.jpg",
+        name: "Michael Scott",
         designation: "Executive Chef",
     },
     {
-        img: "assets/img/team/2.jpg",
-        name: "Jonathan Flock",
+        img: "assets/img/people/4.jpg",
+        name: "Holly Flax",
         designation: "Assistant Chef",
     },
     {
-        img: "assets/img/team/3.jpg",
-        name: "Mich Jean",
+        img: "assets/img/people/1.jpg",
+        name: "Jim Halpert",
         designation: "Assistant Chef",
     },
     {
-        img: "assets/img/team/4.jpg",
-        name: "Andrew Lumber",
+        img: "assets/img/people/2.jpg",
+        name: "Pam Beesley",
         designation: "Assistant Chef",
     },
 ];
@@ -36,10 +36,10 @@ class Teammembers extends Component {
                                 <h2 className="title">Meet The Team</h2>
                                 <p className="subtitle">
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-          </p>
+                                </p>
                                 <p className="subtitle">
                                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-          </p>
+                                </p>
                             </div>
                             <Link to="#" className="btn-custom">View All</Link>
                         </div>

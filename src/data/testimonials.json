@@ -2,29 +2,29 @@
     {
         "id": 1,
         "img": "assets/img/people/1.jpg",
-        "name": "John Doe",
-        "desig": "Food Specialist",
+        "name": "Jim Halpert",
+        "desig": "Paper Salesman",
         "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     },
     {
         "id": 2,
         "img": "assets/img/people/2.jpg",
-        "name": "Heather Madlin",
-        "desig": "Food Specialist",
+        "name": "Pam Beesley",
+        "desig": "Receptionist",
         "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     },
     {
         "id": 3,
         "img": "assets/img/people/3.jpg",
-        "name": "Tina Flinston",
-        "desig": "Food Specialist",
+        "name": "Michael Scott",
+        "desig": "World's Best Boss",
         "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     },
     {
         "id": 4,
         "img": "assets/img/people/4.jpg",
-        "name": "Justine Donawick",
-        "desig": "Food Specialist",
+        "name": "Holly Flax",
+        "desig": "Human Resources",
         "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     }
 ]
