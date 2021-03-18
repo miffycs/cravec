@@ -377,7 +377,7 @@ class Content extends Component {
                                                     </div>
                                                 </td>
                                                 <td data-title="Quantity">x{item.qty}</td>
-                                                <td data-title="Total"> <strong>{new Intl.NumberFormat().format((item.price * item.qty).toFixed(2))}$</strong> </td>
+                                                <td data-title="Total"> <strong>${new Intl.NumberFormat().format((item.price * item.qty).toFixed(2))}</strong> </td>
                                             </tr>
                                         ))}
                                         <tr className="total">

@@ -19,7 +19,7 @@ class Cartlist extends Component {
                                     </Link>
                                     <div className="media-body">
                                         <h5> <Link to="/menu-item-v1/1" title={item.name}>{item.name}</Link> </h5>
-                                        <span>{item.qty}x {new Intl.NumberFormat().format((item.price).toFixed(2))}$</span>
+                                        <span>{item.qty}x ${new Intl.NumberFormat().format((item.price).toFixed(2))}</span>
                                     </div>
                                 </div>
                                 <div className="cart-sidebar-item-meta">
@@ -28,7 +28,7 @@ class Cartlist extends Component {
                                     ))}
                                 </div>
                                 <div className="cart-sidebar-price">
-                                    {new Intl.NumberFormat().format((item.price * item.qty).toFixed(2))}$
+                                    ${new Intl.NumberFormat().format((item.price * item.qty).toFixed(2))}
                             </div>
                                 <div className="close-btn">
                                     <span />
@@ -39,7 +39,7 @@ class Cartlist extends Component {
                     </Scrollbar>
                 </div>
                 <div className="cart-sidebar-footer">
-                    <h4>Total: <span>{new Intl.NumberFormat().format((priceTotal).toFixed(2))}$</span> </h4>
+                    <h4>Total: <span>${new Intl.NumberFormat().format((priceTotal).toFixed(2))}</span> </h4>
                     <button type="button" className="btn-custom">Checkout</button>
                 </div>
             </Fragment>

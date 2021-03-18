@@ -92,7 +92,7 @@ class Banner extends Component {
                                             </div>
                                             <div className="banner-controls">
                                                 <Link to="/menu-v1" className="btn-custom primary">Order <i className="flaticon-shopping-bag" /> </Link>
-                                                <h4>${new Intl.NumberFormat().format((item.price).toFixed(2))}</h4>
+                                                <h4>$ {new Intl.NumberFormat().format((item.price).toFixed(2))}</h4>
                                             </div>
                                         </div>
                                         <div className="col-xl-6 col-lg-6">
@@ -117,9 +117,9 @@ class Banner extends Component {
                                         <div className="banner-nav-item-body">
                                             <h5>{item.category}</h5>
                                             {
-                                                item.discount > 0 || item.discount !== '' ? <span>{new Intl.NumberFormat().format((item.price * (100 - item.discount) / 100).toFixed(2))}$</span> : ''
+                                                item.discount > 0 || item.discount !== '' ? <span>${new Intl.NumberFormat().format((item.price * (100 - item.discount) / 100).toFixed(2))}</span> : ''
                                             }
-                                            <span>{new Intl.NumberFormat().format((item.price).toFixed(2))}$</span>
+                                            <span>${new Intl.NumberFormat().format((item.price).toFixed(2))}</span>
                                         </div>
                                     </div>
                                 </div>
