@@ -5,30 +5,30 @@
     },
     {
         "id":2,
-        "title":"Foodie"
-    },
-    {
-        "id":3,
         "title":"Chicken"
     },
     {
+        "id":3,
+        "title":"Jjigae"
+    },
+    {
         "id":4,
-        "title":"Meat"
+        "title":"Sushi"
     },
     {
         "id":5,
-        "title":"Health"
+        "title":"Drinks"
     },
     {
         "id":6,
-        "title":"Vegan"
+        "title":"Keto"
     },
     {
         "id":7,
-        "title":"Fit"
+        "title":"Events"
     },
     {
         "id":8,
-        "title":"Fruit"
+        "title":"Promos"
     }
 ]
