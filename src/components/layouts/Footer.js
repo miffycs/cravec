@@ -38,7 +38,7 @@ class Footer extends Component {
                                 </ul>
                             </div>
                             <div className="col-xl-3 col-lg-3 col-md-4 col-sm-12 footer-widget">
-                                <h5 className="widget-title">Top Items</h5>
+                                <h5 className="widget-title">Popular Items</h5>
                                 <ul>
                                     <li> <Link to="/menu-v1">Pepperoni</Link> </li>
                                     <li> <Link to="/menu-v1">Swiss Mushroom</Link> </li>
@@ -52,7 +52,7 @@ class Footer extends Component {
                                 <ul>
                                     <li> <Link to="/checkout">Checkout</Link> </li>
                                     <li> <Link to="/cart">Cart</Link> </li>
-                                    <li> <Link to="/menu-item-v1">Product</Link> </li>
+                                    <li> <Link to="/menu-item-v1/1">Product</Link> </li>
                                     <li> <Link to="/locations">Locations</Link> </li>
                                     <li> <Link to="/legal">Legal</Link> </li>
                                 </ul>
@@ -60,13 +60,13 @@ class Footer extends Component {
                             <div className="col-xl-3 col-lg-3 col-md-6 col-sm-12 footer-widget">
                                 <h5 className="widget-title">Social Media</h5>
                                 <ul className="social-media">
+                                    <li> <Link to="#" className="yelp"> <i className="fab fa-yelp" /> </Link> </li>
+                                    <li> <Link to="#" className="insta"> <i className="fab fa-instagram" /> </Link> </li>
                                     <li> <Link to="#" className="facebook"> <i className="fab fa-facebook-f" /> </Link> </li>
-                                    <li> <Link to="#" className="pinterest"> <i className="fab fa-pinterest-p" /> </Link> </li>
-                                    <li> <Link to="#" className="google"> <i className="fab fa-google" /> </Link> </li>
                                     <li> <Link to="#" className="twitter"> <i className="fab fa-twitter" /> </Link> </li>
                                 </ul>
                                 <div className="footer-offer">
-                                    <p>Signup and get exclusive offers and coupon codes</p>
+                                    <p>Sign up to get exclusive offers and coupon codes</p>
                                     <Link to="/register" className="btn-custom btn-sm shadow-none">Sign Up</Link>
                                 </div>
                             </div>
@@ -78,7 +78,6 @@ class Footer extends Component {
                     <div className="container">
                         <ul>
                             <li> <Link to="#">Privacy Policy</Link> </li>
-                            <li> <Link to="#">Refund Policy</Link> </li>
                             <li> <Link to="#">Cookie Policy</Link> </li>
                             <li> <Link to="#">Terms &amp; Conditions</Link> </li>
                         </ul>
