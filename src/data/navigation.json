@@ -67,7 +67,7 @@
     },
     {
         "id": 3,
-        "linkText": "WIP Pages",
+        "linkText": "Pages",
         "child": true,
         "submenu": [
             {
