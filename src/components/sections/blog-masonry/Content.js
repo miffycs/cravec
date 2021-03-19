@@ -36,6 +36,7 @@ class Content extends Component {
         }, 2000);
 
     }
+
     render() {
         const { items, currentPage, itemsPerPage } = this.state;
 
@@ -66,6 +67,7 @@ class Content extends Component {
                 </article>
             </div>
         });
+
         // Logic for displaying page numbers
         const pageNumbers = [];
         for (let i = 1; i <= Math.ceil(items.length / itemsPerPage); i++) {
@@ -87,6 +89,7 @@ class Content extends Component {
             resize: true,
             fitWidth: true
         };
+        
         return (
             <div className="section section-padding pagination-content">
                 <div className="container">

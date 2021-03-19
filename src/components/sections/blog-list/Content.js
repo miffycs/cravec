@@ -35,6 +35,7 @@ class Content extends Component {
         }, 2000);
 
     }
+
     render() {
         const { items, currentPage, itemsPerPage } = this.state;
 
@@ -63,6 +64,7 @@ class Content extends Component {
                 <Link to={"/blog-single/" + item.id} className="read-more">Read More</Link>
             </article>
         });
+
         // Logic for displaying page numbers
         const pageNumbers = [];
         for (let i = 1; i <= Math.ceil(items.length / itemsPerPage); i++) {
@@ -78,6 +80,7 @@ class Content extends Component {
                 </Fragment>
             );
         });
+        
         return (
             <div className="section section-padding pagination-content">
                 <div className="container">

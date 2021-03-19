@@ -19,9 +19,11 @@ class Content extends Component {
         }
         popup()
     }
+
     render() {
         const blogId = this.props.blogId;
         const item = getBlog(blogId);
+        
         return (
             <div className="post-single">
                 <div className="post-subheader dark-overlay dark-overlay-2" style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/" + item.image + ")" }}>

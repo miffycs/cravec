@@ -5,13 +5,13 @@ import Masonry from 'react-masonry-component';
 
 class Content extends Component {
     render() {
-
         const imagesLoadedOptions = {
             itemSelector: '.masonry-item',
             percentPosition: true,
             resize: true,
             fitWidth: true
         };
+
         return (
             <div className="section section-padding pagination-content">
                 <div className="blog-fw">
