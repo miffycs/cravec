@@ -36,7 +36,7 @@ class Content extends Component {
                                     <button type="button" className="ct-social-login facebook"><i className="fab fa-facebook-f" /> Continue with Facebook </button>
                                     <button type="button" className="ct-social-login google"><i className="fab fa-google" /> Continue with Google</button>
                                 </div>
-                                <p>Don't have an account? <Link to="/register">Create One</Link> </p>
+                                <p>Don't have an account? <Link to="/register">Register</Link> </p>
                             </form>
                         </div>
                     </div>
