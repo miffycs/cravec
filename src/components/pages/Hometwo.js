@@ -11,7 +11,7 @@ class Hometwo extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Slices - React Template | {pagelocation}</title>
+                    <title>Crave Chinatown - {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"
@@ -20,7 +20,7 @@ class Hometwo extends Component {
                 <div style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/bg/pattern.jpg)" }}>
                     <Header />
                     <Content />
-                    <Footer footer={{ style: "ct-footer", logo: "assets/img/logo.png" }} />
+                    <Footer footer={{ style: "ct-footer", logo: "assets/img/logo-dark.png" }} />
                 </div>
             </Fragment>
         );

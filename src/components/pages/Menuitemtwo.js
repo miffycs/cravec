@@ -12,7 +12,7 @@ class Menuitemtwo extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Slices - React Template | {pagelocation}</title>
+                    <title>Crave Chinatown - {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"
