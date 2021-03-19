@@ -30,11 +30,11 @@ class Process extends Component {
         return (
             <div className="container">
                 <div className="section-title-wrap section-header text-center">
-                    <h5 className="custom-primary">How We Do It</h5>
-                    <h2 className="title">We Deliver Your Food In 4 Steps</h2>
+                    <h5 className="custom-primary">How Your Food Is Made</h5>
+                    <h2 className="title">You Really Need Me To Explain This?</h2>
                     <p className="subtitle">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-                        </p>
+                    </p>
                 </div>
                 <div className="row infographics-2">
                     {processpost.map((item, i) => (

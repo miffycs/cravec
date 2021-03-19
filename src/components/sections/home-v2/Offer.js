@@ -12,14 +12,14 @@ class Offer extends Component {
                         </div>
                         <div className="col-lg-6">
                             <div className="section-title-wrap mr-lg-30">
-                                <h5 className="custom-primary">Great Offer</h5>
+                                <h5 className="custom-primary">Bigly Offer</h5>
                                 <h2 className="title">Buy 1 Get 1 Free</h2>
                                 <p className="subtitle">
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-          </p>
+                                </p>
                                 <p className="subtitle">
                                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-          </p>
+                                </p>
                                 <Link to="/menu-item-v1" className="btn-custom">Order Now</Link>
                             </div>
                         </div>
