@@ -11,7 +11,7 @@ class Menu extends Component {
                         <h2 className="title">Explore Our Menu</h2>
                         <p className="subtitle">
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
-      </p>
+                        </p>
                     </div>
                     <div className="row">
                         {pizzamenu.map((item, i) => (

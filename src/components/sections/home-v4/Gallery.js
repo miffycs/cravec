@@ -31,12 +31,12 @@ class Gallery extends Component {
                     </div>
                     <div className="gallery-bg bg-parallax dark-overlay dark-overlay-2 bg-cover" style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/subheader.jpg)" }}>
                         <div className="section-title-wrap text-center">
-                            <h5 className="custom-primary">A Community</h5>
-                            <h2 className="title text-white">Stories of Passion</h2>
+                            <h5 className="custom-primary">$$$$$$$$$$</h5>
+                            <h2 className="title text-white">Luring in Investors</h2>
                             <p className="subtitle text-white">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.
+                                Or franchise partners, idk what it's supposed to call. But you get the idea. 
                             </p>
-                            <Link to="/blog-grid" className="btn-custom shadow-none">Read Stories</Link>
+                            <Link to="/blog-grid" className="btn-custom shadow-none">Read Our Blog</Link>
                         </div>
                     </div>
                     <div className="row no-gutters">

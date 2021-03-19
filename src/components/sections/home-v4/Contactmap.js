@@ -7,7 +7,7 @@ const customMarker = L.icon({
     iconSize: [32, 32],
 });
 
-const latlng = [51.5, -0.09]
+const latlng = [42.350205277980386, -71.06079573805086]
 
 class Contactmap extends Component {
     render() {
