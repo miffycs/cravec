@@ -45,10 +45,10 @@ class Categories extends Component {
                         <div className="ct-category-content-inner">
                             <div className="section-title-wrap section-header">
                                 <h5 className="custom-primary">Pasta Menu</h5>
-                                <h2 className="title">Did Someone Say Italian Food?</h2>
+                                <h2 className="title">How About Some Handmade Pasta?</h2>
                                 <p className="subtitle">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
-          </p>
+                                    Cause I love to flex that I can make anything, handmade, and it will taste amazing. I have good words, the best words.
+                                </p>
                             </div>
                             {/* Menu Start */}
                             <div className="row">

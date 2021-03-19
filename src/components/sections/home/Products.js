@@ -55,8 +55,8 @@ class Products extends Component {
             <Fragment>
                 <div className="container">
                     <div className="section-title-wrap section-header text-center">
-                        <h5 className="custom-primary">Trending</h5>
-                        <h2 className="title">Our Customers' Top Picks</h2>
+                        <h5 className="custom-primary">Popular</h5>
+                        <h2 className="title">Top Selling Items</h2>
                         <p className="subtitle">
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
                         </p>
