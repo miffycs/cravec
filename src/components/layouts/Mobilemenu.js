@@ -8,7 +8,7 @@ class Mobilemenu extends HeaderComponent {
         return (
             <Fragment>
                 <Link className="navbar-brand" to="/">
-                    <img src={process.env.PUBLIC_URL + "/assets/img/logo.png"} alt="logo" />
+                    <img src={process.env.PUBLIC_URL + "/assets/img/logo-dark.png"} alt="logo" />
                 </Link>
                 <div className="aside-scroll">
                     <ul>
