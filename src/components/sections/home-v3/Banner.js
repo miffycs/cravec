@@ -11,14 +11,6 @@ class Banner extends Component {
             slideIndex: 1,
             updateCount: 1
         };
-        this.next = this.next.bind(this);
-        this.previous = this.previous.bind(this);
-    }
-    next() {
-        this.slider.slickNext();
-    }
-    previous() {
-        this.slider.slickPrev();
     }
     render() {
         const settings = {
@@ -83,26 +75,13 @@ class Banner extends Component {
                                     </div>
                                     <div className="banner-controls">
                                         <Link to="/menu-v1" className="btn-custom primary">Order <i className="flaticon-shopping-bag" /> </Link>
-                                        <h4>${new Intl.NumberFormat().format((item.price).toFixed(2))}</h4>
+                                        <h4>$ {new Intl.NumberFormat().format((item.price).toFixed(2))}</h4>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     ))}
                 </Slider>
-                <div className="ct-arrows-wrapper">
-                    <div className="slide-number">
-                        <span className="current-slide"><span>{this.state.updateCount}</span></span> <span>/{bannerpost.length}</span>
-                    </div>
-                    <div className="ct-arrows">
-                        <div className="slider-prev slick-arrow" onClick={this.previous}>
-                            Previous
-                        </div>
-                        <div className="slider-next slick-arrow" onClick={this.next}>
-                            Next
-                        </div>
-                    </div>
-                </div>
             </div>
         );
     }
