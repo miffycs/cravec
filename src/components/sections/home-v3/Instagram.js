@@ -9,7 +9,7 @@ class Instagram extends Component {
                 <div className="container">
                     <div className="section-title-wrap section-header text-center">
                         <h5 className="custom-primary">Instagram</h5>
-                        <h2 className="title">We Love Sharing What We Do</h2>
+                        <h2 className="title">Check Out These Pics From Our Instagram</h2>
                         <p className="subtitle">
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
                         </p>

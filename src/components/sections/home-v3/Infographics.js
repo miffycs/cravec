@@ -29,7 +29,7 @@ class Infographics extends Component {
             <div className="section section-padding bg-cover bg-center bg-parallax dark-overlay dark-overlay-2" style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/subheader-2.jpg)" }}>
                 <div className="container">
                     <div className="section-title-wrap section-header text-center">
-                        <h2 className="title text-white">Our success Story</h2>
+                        <h2 className="title text-white">Our Story</h2>
                         <p className="subtitle text-white">
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
                         </p>
