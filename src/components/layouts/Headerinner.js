@@ -27,7 +27,7 @@ class Headerinner extends HeaderComponent {
                     <div className="cart-sidebar-overlay cart-trigger" onClick={this.cartToggle} />
                 </div>
                 {/* Cart Sidebar End */}
-                {/* Search Form Start*/}
+                {/* Search Form Start */}
                 <div className={classNames("search-form-wrapper", { "open": this.state.searchmethod })}>
                     <div className="search-trigger close-btn" onClick={this.searchToggle}>
                         <span />
@@ -35,7 +35,7 @@ class Headerinner extends HeaderComponent {
                     </div>
                     <Search />
                 </div>
-                {/* Search Form End*/}
+                {/* Search Form End */}
                 {/* Aside (Mobile Navigation) */}
                 <aside className={classNames("main-aside", { "open": this.state.navmethod })}>
                     <Mobilemenu />

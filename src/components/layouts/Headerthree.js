@@ -60,7 +60,7 @@ class Headerthree extends HeaderComponent {
                     <div className="container">
                         <nav className="navbar">
                             {/* Logo */}
-                            <Link className="navbar-brand" to="/"> <img src={process.env.PUBLIC_URL + "/assets/img/logo.png"} alt="logo" /> </Link>
+                            <Link className="navbar-brand" to="/"> <img src={process.env.PUBLIC_URL + "/assets/img/logo-dark.png"} alt="logo" /> </Link>
                             {/* Menu */}
                             <Menu />
                             <div className="header-controls">

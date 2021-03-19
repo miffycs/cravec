@@ -27,7 +27,7 @@ class Header extends HeaderComponent {
                     <div className="cart-sidebar-overlay cart-trigger" onClick={this.cartToggle} />
                 </div>
                 {/* Cart Sidebar End */}
-                {/* Search Form Start*/}
+                {/* Search Form Start */}
                 <div className={classNames("search-form-wrapper", { "open": this.state.searchmethod })}>
                     <div className="search-trigger close-btn" onClick={this.searchToggle}>
                         <span />
@@ -35,7 +35,7 @@ class Header extends HeaderComponent {
                     </div>
                     <Search />
                 </div>
-                {/* Search Form End*/}
+                {/* Search Form End */}
                 {/* Aside (Mobile Navigation) */}
                 <aside className={classNames("main-aside", { "open": this.state.navmethod })}>
                     <Mobilemenu />
@@ -61,7 +61,7 @@ class Header extends HeaderComponent {
                         <nav className="navbar">
                             {/* Logo */}
                             <Link className="navbar-brand" to="/">
-                                <img src={process.env.PUBLIC_URL + "/assets/img/logo.png"} alt="logo" />
+                                <img src={process.env.PUBLIC_URL + "/assets/img/logo-dark.png"} alt="logo" />
                             </Link>
                             {/* Menu */}
                             <Menu />
