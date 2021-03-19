@@ -112,7 +112,7 @@
                         "state": false
                     },
                     {
-                        "title": "Gruyere",
+                        "title": "Swiss",
                         "addprice": 3.75,
                         "state": false
                     },
@@ -129,21 +129,21 @@
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"Jim Halpert",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
             },
             {
                 "img":"assets/img/people/2.jpg",
                 "name":"Pam Beesley",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
             },
             {
                 "img":"assets/img/people/3.jpg",
                 "name":"Michael Scott",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
             }
@@ -152,7 +152,7 @@
     {
         "id": 2,
         "img": "assets/img/prods-sm/13.png",
-        "name": "Rum With Soda",
+        "name": "Coke",
         "shortdesc": "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
         "price": 3.99,
         "rating": 4,
@@ -263,7 +263,7 @@
                         "state": false
                     },
                     {
-                        "title": "Gruyere",
+                        "title": "Swiss",
                         "addprice": 3.75,
                         "state": false
                     },
@@ -280,21 +280,21 @@
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"Jim Halpert",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
             },
             {
                 "img":"assets/img/people/2.jpg",
                 "name":"Pam Beesley",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
             },
             {
                 "img":"assets/img/people/3.jpg",
                 "name":"Michael Scott",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
             }
@@ -303,7 +303,7 @@
     {
         "id": 3,
         "img": "assets/img/prods-sm/12.png",
-        "name": "Chocolate Cookies",
+        "name": "Chocolate Chip Cookies",
         "shortdesc": "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
         "price": 4.99,
         "rating": 4,
@@ -413,7 +413,7 @@
                         "state": false
                     },
                     {
-                        "title": "Gruyere",
+                        "title": "Swiss",
                         "addprice": 3.75,
                         "state": false
                     },
@@ -430,21 +430,21 @@
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"Jim Halpert",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
             },
             {
                 "img":"assets/img/people/2.jpg",
                 "name":"Pam Beesley",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
             },
             {
                 "img":"assets/img/people/3.jpg",
                 "name":"Michael Scott",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
             }
@@ -564,7 +564,7 @@
                         "state": false
                     },
                     {
-                        "title": "Gruyere",
+                        "title": "Swiss",
                         "addprice": 3.75,
                         "state": false
                     },
@@ -581,21 +581,21 @@
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"Jim Halpert",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
             },
             {
                 "img":"assets/img/people/2.jpg",
                 "name":"Pam Beesley",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
             },
             {
                 "img":"assets/img/people/3.jpg",
                 "name":"Michael Scott",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
             }
@@ -604,7 +604,7 @@
     {
         "id": 5,
         "img": "assets/img/prods-sm/11.png",
-        "name": "Sea Food Pasta",
+        "name": "Seafood Pasta",
         "shortdesc": "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
         "price": 14.99,
         "rating": 4,
@@ -714,7 +714,7 @@
                         "state": false
                     },
                     {
-                        "title": "Gruyere",
+                        "title": "Swiss",
                         "addprice": 3.75,
                         "state": false
                     },
@@ -731,21 +731,21 @@
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"Jim Halpert",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
             },
             {
                 "img":"assets/img/people/2.jpg",
                 "name":"Pam Beesley",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
             },
             {
                 "img":"assets/img/people/3.jpg",
                 "name":"Michael Scott",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
             }
@@ -754,7 +754,7 @@
     {
         "id": 6,
         "img": "assets/img/prods-sm/10.png",
-        "name": "Russian Beer",
+        "name": "Beer",
         "shortdesc": "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
         "price": 14.99,
         "rating": 4,
@@ -865,7 +865,7 @@
                         "state": false
                     },
                     {
-                        "title": "Gruyere",
+                        "title": "Swiss",
                         "addprice": 3.75,
                         "state": false
                     },
@@ -882,21 +882,21 @@
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"Jim Halpert",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
             },
             {
                 "img":"assets/img/people/2.jpg",
                 "name":"Pam Beesley",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
             },
             {
                 "img":"assets/img/people/3.jpg",
                 "name":"Michael Scott",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
             }
@@ -1015,7 +1015,7 @@
                         "state": false
                     },
                     {
-                        "title": "Gruyere",
+                        "title": "Swiss",
                         "addprice": 3.75,
                         "state": false
                     },
@@ -1032,21 +1032,21 @@
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"Jim Halpert",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
             },
             {
                 "img":"assets/img/people/2.jpg",
                 "name":"Pam Beesley",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
             },
             {
                 "img":"assets/img/people/3.jpg",
                 "name":"Michael Scott",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
             }
@@ -1055,7 +1055,7 @@
     {
         "id": 8,
         "img": "assets/img/prods-sm/15.png",
-        "name": "Ceaser Salad",
+        "name": "Caeser Salad",
         "shortdesc": "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
         "price": 10.99,
         "rating": 4,
@@ -1166,7 +1166,7 @@
                         "state": false
                     },
                     {
-                        "title": "Gruyere",
+                        "title": "Swiss",
                         "addprice": 3.75,
                         "state": false
                     },
@@ -1183,21 +1183,21 @@
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"Jim Halpert",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
             },
             {
                 "img":"assets/img/people/2.jpg",
                 "name":"Pam Beesley",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
             },
             {
                 "img":"assets/img/people/3.jpg",
                 "name":"Michael Scott",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
             }
@@ -1316,7 +1316,7 @@
                         "state": false
                     },
                     {
-                        "title": "Gruyere",
+                        "title": "Swiss",
                         "addprice": 3.75,
                         "state": false
                     },
@@ -1333,21 +1333,21 @@
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"Jim Halpert",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
             },
             {
                 "img":"assets/img/people/2.jpg",
                 "name":"Pam Beesley",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
             },
             {
                 "img":"assets/img/people/3.jpg",
                 "name":"Michael Scott",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
             }
@@ -1466,7 +1466,7 @@
                         "state": false
                     },
                     {
-                        "title": "Gruyere",
+                        "title": "Swiss",
                         "addprice": 3.75,
                         "state": false
                     },
@@ -1483,21 +1483,21 @@
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"Jim Halpert",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
             },
             {
                 "img":"assets/img/people/2.jpg",
                 "name":"Pam Beesley",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
             },
             {
                 "img":"assets/img/people/3.jpg",
                 "name":"Michael Scott",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
             }
@@ -1616,7 +1616,7 @@
                         "state": false
                     },
                     {
-                        "title": "Gruyere",
+                        "title": "Swiss",
                         "addprice": 3.75,
                         "state": false
                     },
@@ -1633,21 +1633,21 @@
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"Jim Halpert",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
             },
             {
                 "img":"assets/img/people/2.jpg",
                 "name":"Pam Beesley",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
             },
             {
                 "img":"assets/img/people/3.jpg",
                 "name":"Michael Scott",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
             }
@@ -1767,7 +1767,7 @@
                         "state": false
                     },
                     {
-                        "title": "Gruyere",
+                        "title": "Swiss",
                         "addprice": 3.75,
                         "state": false
                     },
@@ -1784,21 +1784,21 @@
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"Jim Halpert",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
             },
             {
                 "img":"assets/img/people/2.jpg",
                 "name":"Pam Beesley",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
             },
             {
                 "img":"assets/img/people/3.jpg",
                 "name":"Michael Scott",
-                "date":"January 13 2021",
+                "date":"March 24 2021",
                 "rating":4,
                 "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
             }
