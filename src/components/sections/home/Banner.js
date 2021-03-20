@@ -85,8 +85,8 @@ class Banner extends Component {
                                                 <div className="banner-icon">
                                                     <i className="flaticon-cheese" />
                                                     <div className="banner-icon-body">
-                                                        <h5>{item.mozarella}g</h5>
-                                                        <span>Mozarella</span>
+                                                        <h5>{item.mozzarella}g</h5>
+                                                        <span>Mozzarella</span>
                                                     </div>
                                                 </div>
                                             </div>

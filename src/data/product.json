@@ -41,12 +41,12 @@
                         "state": true
                     },
                     {
-                        "title": "Hand Flipped",
+                        "title": "Hand Tossed",
                         "addprice": 2.00,
                         "state": false
                     },
                     {
-                        "title": "Multi Grain",
+                        "title": "Gluten Free",
                         "addprice": 4.00,
                         "state": false
                     }
@@ -85,7 +85,7 @@
                         "state": false
                     },
                     {
-                        "title": "Fresh Mushroom",
+                        "title": "Mushrooms",
                         "addprice": 0.75,
                         "state": false
                     },
@@ -102,7 +102,7 @@
                 "type":"checkbox",
                 "items": [
                     {
-                        "title": "Mozarella",
+                        "title": "Mozzarella",
                         "addprice": 1.00,
                         "state": true
                     },
@@ -117,7 +117,7 @@
                         "state": false
                     },
                     {
-                        "title": "Blue Cheese",
+                        "title": "Provolone",
                         "addprice": 0.25,
                         "state": false
                     }
@@ -192,12 +192,12 @@
                         "state": true
                     },
                     {
-                        "title": "Hand Flipped",
+                        "title": "Hand Tossed",
                         "addprice": 2.00,
                         "state": false
                     },
                     {
-                        "title": "Multi Grain",
+                        "title": "Gluten Free",
                         "addprice": 4.00,
                         "state": false
                     }
@@ -236,7 +236,7 @@
                         "state": false
                     },
                     {
-                        "title": "Fresh Mushroom",
+                        "title": "Mushrooms",
                         "addprice": 0.75,
                         "state": false
                     },
@@ -253,7 +253,7 @@
                 "type":"checkbox",
                 "items": [
                     {
-                        "title": "Mozarella",
+                        "title": "Mozzarella",
                         "addprice": 1.00,
                         "state": true
                     },
@@ -268,7 +268,7 @@
                         "state": false
                     },
                     {
-                        "title": "Blue Cheese",
+                        "title": "Provolone",
                         "addprice": 0.25,
                         "state": false
                     }
@@ -342,12 +342,12 @@
                         "state": true
                     },
                     {
-                        "title": "Hand Flipped",
+                        "title": "Hand Tossed",
                         "addprice": 2.00,
                         "state": false
                     },
                     {
-                        "title": "Multi Grain",
+                        "title": "Gluten Free",
                         "addprice": 4.00,
                         "state": false
                     }
@@ -386,7 +386,7 @@
                         "state": false
                     },
                     {
-                        "title": "Fresh Mushroom",
+                        "title": "Mushrooms",
                         "addprice": 0.75,
                         "state": false
                     },
@@ -403,7 +403,7 @@
                 "type":"checkbox",
                 "items": [
                     {
-                        "title": "Mozarella",
+                        "title": "Mozzarella",
                         "addprice": 1.00,
                         "state": true
                     },
@@ -418,7 +418,7 @@
                         "state": false
                     },
                     {
-                        "title": "Blue Cheese",
+                        "title": "Provolone",
                         "addprice": 0.25,
                         "state": false
                     }
@@ -493,12 +493,12 @@
                         "state": true
                     },
                     {
-                        "title": "Hand Flipped",
+                        "title": "Hand Tossed",
                         "addprice": 2.00,
                         "state": false
                     },
                     {
-                        "title": "Multi Grain",
+                        "title": "Gluten Free",
                         "addprice": 4.00,
                         "state": false
                     }
@@ -537,7 +537,7 @@
                         "state": false
                     },
                     {
-                        "title": "Fresh Mushroom",
+                        "title": "Mushrooms",
                         "addprice": 0.75,
                         "state": false
                     },
@@ -554,7 +554,7 @@
                 "type":"checkbox",
                 "items": [
                     {
-                        "title": "Mozarella",
+                        "title": "Mozzarella",
                         "addprice": 1.00,
                         "state": true
                     },
@@ -569,7 +569,7 @@
                         "state": false
                     },
                     {
-                        "title": "Blue Cheese",
+                        "title": "Provolone",
                         "addprice": 0.25,
                         "state": false
                     }
@@ -643,12 +643,12 @@
                         "state": true
                     },
                     {
-                        "title": "Hand Flipped",
+                        "title": "Hand Tossed",
                         "addprice": 2.00,
                         "state": false
                     },
                     {
-                        "title": "Multi Grain",
+                        "title": "Gluten Free",
                         "addprice": 4.00,
                         "state": false
                     }
@@ -687,7 +687,7 @@
                         "state": false
                     },
                     {
-                        "title": "Fresh Mushroom",
+                        "title": "Mushrooms",
                         "addprice": 0.75,
                         "state": false
                     },
@@ -704,7 +704,7 @@
                 "type":"checkbox",
                 "items": [
                     {
-                        "title": "Mozarella",
+                        "title": "Mozzarella",
                         "addprice": 1.00,
                         "state": true
                     },
@@ -719,7 +719,7 @@
                         "state": false
                     },
                     {
-                        "title": "Blue Cheese",
+                        "title": "Provolone",
                         "addprice": 0.25,
                         "state": false
                     }
@@ -794,12 +794,12 @@
                         "state": true
                     },
                     {
-                        "title": "Hand Flipped",
+                        "title": "Hand Tossed",
                         "addprice": 2.00,
                         "state": false
                     },
                     {
-                        "title": "Multi Grain",
+                        "title": "Gluten Free",
                         "addprice": 4.00,
                         "state": false
                     }
@@ -838,7 +838,7 @@
                         "state": false
                     },
                     {
-                        "title": "Fresh Mushroom",
+                        "title": "Mushrooms",
                         "addprice": 0.75,
                         "state": false
                     },
@@ -855,7 +855,7 @@
                 "type":"checkbox",
                 "items": [
                     {
-                        "title": "Mozarella",
+                        "title": "Mozzarella",
                         "addprice": 1.00,
                         "state": true
                     },
@@ -870,7 +870,7 @@
                         "state": false
                     },
                     {
-                        "title": "Blue Cheese",
+                        "title": "Provolone",
                         "addprice": 0.25,
                         "state": false
                     }
@@ -944,12 +944,12 @@
                         "state": true
                     },
                     {
-                        "title": "Hand Flipped",
+                        "title": "Hand Tossed",
                         "addprice": 2.00,
                         "state": false
                     },
                     {
-                        "title": "Multi Grain",
+                        "title": "Gluten Free",
                         "addprice": 4.00,
                         "state": false
                     }
@@ -988,7 +988,7 @@
                         "state": false
                     },
                     {
-                        "title": "Fresh Mushroom",
+                        "title": "Mushrooms",
                         "addprice": 0.75,
                         "state": false
                     },
@@ -1005,7 +1005,7 @@
                 "type":"checkbox",
                 "items": [
                     {
-                        "title": "Mozarella",
+                        "title": "Mozzarella",
                         "addprice": 1.00,
                         "state": true
                     },
@@ -1020,7 +1020,7 @@
                         "state": false
                     },
                     {
-                        "title": "Blue Cheese",
+                        "title": "Provolone",
                         "addprice": 0.25,
                         "state": false
                     }
@@ -1095,12 +1095,12 @@
                         "state": true
                     },
                     {
-                        "title": "Hand Flipped",
+                        "title": "Hand Tossed",
                         "addprice": 2.00,
                         "state": false
                     },
                     {
-                        "title": "Multi Grain",
+                        "title": "Gluten Free",
                         "addprice": 4.00,
                         "state": false
                     }
@@ -1139,7 +1139,7 @@
                         "state": false
                     },
                     {
-                        "title": "Fresh Mushroom",
+                        "title": "Mushrooms",
                         "addprice": 0.75,
                         "state": false
                     },
@@ -1156,7 +1156,7 @@
                 "type":"checkbox",
                 "items": [
                     {
-                        "title": "Mozarella",
+                        "title": "Mozzarella",
                         "addprice": 1.00,
                         "state": true
                     },
@@ -1171,7 +1171,7 @@
                         "state": false
                     },
                     {
-                        "title": "Blue Cheese",
+                        "title": "Provolone",
                         "addprice": 0.25,
                         "state": false
                     }
@@ -1245,12 +1245,12 @@
                         "state": true
                     },
                     {
-                        "title": "Hand Flipped",
+                        "title": "Hand Tossed",
                         "addprice": 2.00,
                         "state": false
                     },
                     {
-                        "title": "Multi Grain",
+                        "title": "Gluten Free",
                         "addprice": 4.00,
                         "state": false
                     }
@@ -1289,7 +1289,7 @@
                         "state": false
                     },
                     {
-                        "title": "Fresh Mushroom",
+                        "title": "Mushrooms",
                         "addprice": 0.75,
                         "state": false
                     },
@@ -1306,7 +1306,7 @@
                 "type":"checkbox",
                 "items": [
                     {
-                        "title": "Mozarella",
+                        "title": "Mozzarella",
                         "addprice": 1.00,
                         "state": true
                     },
@@ -1321,7 +1321,7 @@
                         "state": false
                     },
                     {
-                        "title": "Blue Cheese",
+                        "title": "Provolone",
                         "addprice": 0.25,
                         "state": false
                     }
@@ -1395,12 +1395,12 @@
                         "state": true
                     },
                     {
-                        "title": "Hand Flipped",
+                        "title": "Hand Tossed",
                         "addprice": 2.00,
                         "state": false
                     },
                     {
-                        "title": "Multi Grain",
+                        "title": "Gluten Free",
                         "addprice": 4.00,
                         "state": false
                     }
@@ -1439,7 +1439,7 @@
                         "state": false
                     },
                     {
-                        "title": "Fresh Mushroom",
+                        "title": "Mushrooms",
                         "addprice": 0.75,
                         "state": false
                     },
@@ -1456,7 +1456,7 @@
                 "type":"checkbox",
                 "items": [
                     {
-                        "title": "Mozarella",
+                        "title": "Mozzarella",
                         "addprice": 1.00,
                         "state": true
                     },
@@ -1471,7 +1471,7 @@
                         "state": false
                     },
                     {
-                        "title": "Blue Cheese",
+                        "title": "Provolone",
                         "addprice": 0.25,
                         "state": false
                     }
@@ -1545,12 +1545,12 @@
                         "state": true
                     },
                     {
-                        "title": "Hand Flipped",
+                        "title": "Hand Tossed",
                         "addprice": 2.00,
                         "state": false
                     },
                     {
-                        "title": "Multi Grain",
+                        "title": "Gluten Free",
                         "addprice": 4.00,
                         "state": false
                     }
@@ -1589,7 +1589,7 @@
                         "state": false
                     },
                     {
-                        "title": "Fresh Mushroom",
+                        "title": "Mushrooms",
                         "addprice": 0.75,
                         "state": false
                     },
@@ -1606,7 +1606,7 @@
                 "type":"checkbox",
                 "items": [
                     {
-                        "title": "Mozarella",
+                        "title": "Mozzarella",
                         "addprice": 1.00,
                         "state": true
                     },
@@ -1621,7 +1621,7 @@
                         "state": false
                     },
                     {
-                        "title": "Blue Cheese",
+                        "title": "Provolone",
                         "addprice": 0.25,
                         "state": false
                     }
@@ -1696,12 +1696,12 @@
                         "state": true
                     },
                     {
-                        "title": "Hand Flipped",
+                        "title": "Hand Tossed",
                         "addprice": 2.00,
                         "state": false
                     },
                     {
-                        "title": "Multi Grain",
+                        "title": "Gluten Free",
                         "addprice": 4.00,
                         "state": false
                     }
@@ -1740,7 +1740,7 @@
                         "state": false
                     },
                     {
-                        "title": "Fresh Mushroom",
+                        "title": "Mushrooms",
                         "addprice": 0.75,
                         "state": false
                     },
@@ -1757,7 +1757,7 @@
                 "type":"checkbox",
                 "items": [
                     {
-                        "title": "Mozarella",
+                        "title": "Mozzarella",
                         "addprice": 1.00,
                         "state": true
                     },
@@ -1772,7 +1772,7 @@
                         "state": false
                     },
                     {
-                        "title": "Blue Cheese",
+                        "title": "Provolone",
                         "addprice": 0.25,
                         "state": false
                     }
