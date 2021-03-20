@@ -60,10 +60,10 @@ class Footer extends Component {
                             <div className="col-xl-3 col-lg-3 col-md-6 col-sm-12 footer-widget">
                                 <h5 className="widget-title">Social Media</h5>
                                 <ul className="social-media">
-                                    <li> <Link to="#" className="yelp"> <i className="fab fa-yelp" /> </Link> </li>
-                                    <li> <Link to="#" className="insta"> <i className="fab fa-instagram" /> </Link> </li>
-                                    <li> <Link to="#" className="facebook"> <i className="fab fa-facebook-f" /> </Link> </li>
-                                    <li> <Link to="#" className="twitter"> <i className="fab fa-twitter" /> </Link> </li>
+                                    <li> <a href="https://www.yelp.com/biz/crave-chinatown-boston-2/" className="yelp"> <i className="fab fa-yelp" /> </a> </li>
+                                    <li> <a href="https://www.instagram.com/cravechinatownboston/" className="insta"> <i className="fab fa-instagram" /> </a> </li>
+                                    <li> <a href="https://www.facebook.com/CraveMFC/" className="facebook"> <i className="fab fa-facebook-f" /> </a> </li>
+                                    <li> <a href="https://twitter.com/mad4chkboston/" className="twitter"> <i className="fab fa-twitter" /> </a> </li>
                                 </ul>
                                 <div className="footer-offer">
                                     <p>Sign up to get exclusive offers and coupon codes</p>
