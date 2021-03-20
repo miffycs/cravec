@@ -65,7 +65,6 @@ function App() {
     <Router>
       <Suspense fallback={<div>Page is loading... Be patient!!!</div>}>
         <ScrollToTop>
-          <Preloader />
           <Switch>
             <Route exact path="/" component={Home} />
             <Route path="/home-v2" component={Hometwo} />
