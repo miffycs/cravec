@@ -6,9 +6,12 @@ class Content extends Component {
         return (
             <div className="page-404-wrapper">
                 <div className="page-404-text">
-                    <h1>Page Not Found</h1>
-                    <p>How'd you get here? This is supposed to be a top-secret project... Well, at least till 3/24.</p> <br />
-                    <Link to="/" className="btn-custom">But this is my bday present</Link>
+                    <h1>Happy Birthday!!</h1>
+                    <p>
+                        Did I fuck up and give this to you early? Lol.<br />
+                        Guess I really can't hold a secret...
+                    </p>
+                    <Link to="/" className="btn-custom">Show me my bday present</Link>
                 </div>
                 <div className="banner-bottom-img">
                     <img src={process.env.PUBLIC_URL + "/assets/img/veg/2.png"} alt="veg" />
