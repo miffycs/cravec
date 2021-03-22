@@ -7,6 +7,11 @@ import $ from 'jquery';
 import 'magnific-popup';
 import Relatedblog from '../../layouts/Relatedblog';
 
+// TODO: images for item.longdescription
+import img2 from "../blog-single/2.jpg";
+import img3 from "../blog-single/3.jpg";
+import img4 from "../blog-single/4.jpg";
+
 class Content extends Component {
     componentDidMount() {
         function popup() {
@@ -51,7 +56,42 @@ class Content extends Component {
                             {/* Content Start */}
                             <div className="col-lg-8">
                                 <div className="post-content-wrapper">
-                                    <div className="post-content" dangerouslySetInnerHTML={{ __html: item.longdescription }} />
+                                    {/* TODO: disabling this line to pull from blog.json - item.longdescription */}
+                                    {/* <div className="post-content" dangerouslySetInnerHTML={{ __html: item.longdescription }} /> */}
+                                    <div className="post-content">
+                                        <p>
+                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+                                        </p>
+                                        <h4>The Grand Opening</h4>
+                                        <p>
+                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. <a href='#'>Lorem Ipsum has been the industry's</a> standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                        </p>
+                                        <img src={img4} alt='post' />
+                                        <p>
+                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting
+                                        </p>
+                                        <blockquote>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                        </blockquote>
+                                        <p>
+                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                        </p>
+                                        <div className='row'>
+                                            <div className='col-md-6'>
+                                                <a href={img2} className='gallery-thumb'>
+                                                    <img src={img2} alt='post' />
+                                                </a>
+                                            </div>
+                                            <div className='col-md-6'>
+                                                <a href={img3} className='gallery-thumb'>
+                                                    <img src={img3} alt='post' />
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <p>
+                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+                                        </p>
+                                    </div>
                                     {/* About Author Start */}
                                     <div className="section">
                                         <div className="about-author">
