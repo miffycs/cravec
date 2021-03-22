@@ -36,7 +36,7 @@
     {
         "id": 4,
         "img": "assets/img/prods-sm/4.png",
-        "name": "Barbeque Chicken",
+        "name": "BBQ Chicken",
         "qty": 4,
         "price": 9.99,
         "flavours": [

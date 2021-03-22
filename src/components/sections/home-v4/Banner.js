@@ -8,7 +8,7 @@ class Banner extends Component {
                 <div className="banner-item">
                     <div className="banner-inner bg-cover bg-center dark-overlay dark-overlay-2" style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/7.jpg)" }}>
                         <div className="container">
-                            <img src={process.env.PUBLIC_URL + "/assets/img/logo.png"} alt="logo" height="170" />
+                            <img src={process.env.PUBLIC_URL + "/assets/img/logo.png"} alt="logo" height="180" width="200" />
                             <h1 className="title">Hey You Finally See Your Own Logo On Here LOL</h1>
                             <p className="subtitle">
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry

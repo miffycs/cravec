@@ -1356,7 +1356,7 @@
     {
         "id": 10,
         "img": "assets/img/prods-sm/3.png",
-        "name": "Barbeque Chicken",
+        "name": "BBQ Chicken",
         "shortdesc": "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
         "price": 12.99,
         "rating": 4,
@@ -1506,7 +1506,7 @@
     {
         "id": 11,
         "img": "assets/img/prods-sm/11.png",
-        "name": "Sea Food Noodles",
+        "name": "Seafood Pasta",
         "shortdesc": "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
         "price": 12.99,
         "rating": 4,

@@ -8,14 +8,14 @@
     },
     {
         "id": 2,
-        "title": "Pizzas",
+        "title": "Pizza",
         "img": "assets/img/categories/2.jpg",
         "lgimg":"assets/img/categories-lg/2.jpg",
         "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
     },
     {
         "id": 3,
-        "title": "Salads",
+        "title": "Salad",
         "img": "assets/img/categories/3.jpg",
         "lgimg":"assets/img/categories-lg/3.jpg",
         "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"

@@ -12,10 +12,10 @@ class Categories extends Component {
                         <div className="ct-category-content-inner">
                             <div className="section-title-wrap section-header">
                                 <h5 className="custom-primary">Pizza Menu</h5>
-                                <h2 className="title">Our Passion, Our Heritage, Our Pizzas </h2>
+                                <h2 className="title">Good Pizza, Best In Boston, Trust My Pizza</h2>
                                 <p className="subtitle">
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
-          </p>
+                                </p>
                             </div>
                             {/* Menu Start */}
                             <div className="row">

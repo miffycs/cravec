@@ -33,7 +33,7 @@ class Process extends Component {
                     <h5 className="custom-primary">How Your Food Is Made</h5>
                     <h2 className="title">You Really Need Me To Explain This?</h2>
                     <p className="subtitle">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+                        "It's not hard at all. It's essentially just boiling water. I can make stuff in under 5 minutes. Well 4.9 sometimes. The beauty of soup is just add more shit."
                     </p>
                 </div>
                 <div className="row infographics-2">

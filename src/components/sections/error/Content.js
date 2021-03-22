@@ -8,8 +8,7 @@ class Content extends Component {
                 <div className="page-404-text">
                     <h1>Happy Birthday!!</h1>
                     <p>
-                        Did I fuck up and give this to you early? Lol.<br />
-                        Guess I really can't hold a secret...
+                        Did I fuck up and give this to you early? Lol. <br />
                     </p>
                     <Link to="/" className="btn-custom">Show me my bday present</Link>
                 </div>

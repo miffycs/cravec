@@ -42,7 +42,7 @@ class Footer extends Component {
                                 <ul>
                                     <li> <Link to="/menu-v1">Pepperoni</Link> </li>
                                     <li> <Link to="/menu-v1">Swiss Mushroom</Link> </li>
-                                    <li> <Link to="/menu-v1">Barbeque Chicken</Link> </li>
+                                    <li> <Link to="/menu-v1">BBQ Chicken</Link> </li>
                                     <li> <Link to="/menu-v1">Vegetarian</Link> </li>
                                     <li> <Link to="/menu-v1">Ham &amp; Cheese</Link> </li>
                                 </ul>

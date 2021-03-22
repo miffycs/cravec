@@ -31,10 +31,10 @@ class Gallery extends Component {
                     </div>
                     <div className="gallery-bg bg-parallax dark-overlay dark-overlay-2 bg-cover" style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/subheader.jpg)" }}>
                         <div className="section-title-wrap text-center">
-                            <h5 className="custom-primary">$$$$$$$$$$</h5>
+                            <h5 className="custom-primary">$$$$$$$$</h5>
                             <h2 className="title text-white">Luring in Investors</h2>
                             <p className="subtitle text-white">
-                                Or franchise partners, idk what it's supposed to call. But you get the idea. 
+                                Or franchise partners, whatever you want. People who give you money or make money for you. You get the idea. 
                             </p>
                             <Link to="/blog-grid" className="btn-custom shadow-none">Read Our Blog</Link>
                         </div>
